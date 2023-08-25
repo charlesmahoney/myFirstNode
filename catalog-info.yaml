@@ -6,5 +6,5 @@ metadata:
     backstage.io/techdocs-ref: docs
 spec:
   type: service
-  owner: user:guest
+  owner: user:charlesmahoney
   lifecycle: experimental
